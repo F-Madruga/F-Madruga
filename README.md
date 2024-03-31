@@ -1,7 +1,7 @@
 # Francisco Madruga
 
 ## About me
-Product-focused backend engineer passionate about solving user problems with scalable and innovative solutions.
+Product-focused software engineer passionate about solving user problems with scalable and innovative solutions.
 
 I thrive in fast-paced and collaborative environments where I can be impactful on customer and business outcomes but also challenged to grow and evolve my skills in software development.
 
