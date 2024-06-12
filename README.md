@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@FMadruga98-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FMadruga98)](https://twitter.com/FMadruga98)
 
 ## About me
-Product-focused software engineer passionate about solving user problems with scalable and innovative solutions.
+**Product-focused software engineer** passionate about solving user problems with scalable and innovative solutions.
 
 I thrive in fast-paced and collaborative environments where I can be impactful on customer and business outcomes but also challenged to grow and evolve my skills in software development.
 
